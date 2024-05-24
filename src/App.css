@@ -73,8 +73,7 @@ button {
 .hero p{
   font-weight: 600;
   font-size: 16px;
-  line-height: 24px;
-  max-width: 404px;
+  max-width: 400px;
   color: var(--gray);
 }
 
@@ -89,10 +88,6 @@ button {
   padding: 4px 8px;
 }
 
-.pri-btn{
-  background-color: var(--red);
-  border: none;
-}
 
 .sec-btn{
   background-color: transparent;
